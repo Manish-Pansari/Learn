@@ -1,0 +1,29 @@
+sys.dm_pdw_waits
+data skew azure synapse
+Distributed tables design guidance
+Microsoft.Azure.Management.Monitor
+correlattion id in data factory
+azure log analytics
+label pipelines in data factory
+pii data masking
+transparent data encryption
+Customer-managed transparent data encryption (TDE)
+Dynamic data masking
+sensitivity labels vs classification labels -
+resource tag for database axure
+private endpoint key vault -
+sys.pdw_nodes_column_store_row_groups
+high percentage of delted rows synapse -
+type 3 scd synapse - which columns get added
+vhange partion count after creation stream anlytics
+creating external table on recursive folder.
+copy behaviour flatten hierarchy -
+CREATE PARTITION FUNCTION
+Hot, Cool, and Archive access tiers for blob data -
+geo zone redundant storage
+unpivot in synapse
+Create tumbling window triggers -
+eventgrif adf
+databricks interactive cluster
+ALTER EXTERNAL DATA SOURCE
+cross apply
